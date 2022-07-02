@@ -1,0 +1,43 @@
+```
+Smokey Bacon Chicken Chilli
+quantity    name                       type      
+----------  -------------------------  ----------
+10oz        Diced Chicken Breast       Meat      
+1oz         Crumbled Bacon             Meat      
+3oz         Corn                       Vegetables
+3oz         Corn Muffin mix            Baking    
+3oz         Cannellini Beans           Beans     
+2oz         Sour Cream                 Condiments
+1/2 oz      Flour                      Baking    
+2           Green Onion                Vegetables
+2tsp        Chicken Broth Concentrate  Condiments
+
+
+Adobo Chicken Enchilladas
+quantity    name                     type        
+----------  -----------------------  ----------  
+12oz        Chicken Breast           Meat        
+1           Jalapeno Pepper          Pepper      
+2oz         Shredded Cheddar Cheese  Cheese      
+6           Small Flour Tortillas    Tortillas   
+6 fl oz     Red Enchillada Sauce     Sauce       
+1           Red Onion                Vegetables
+3oz         Corn                     Vegetables
+1 tsp       Taco Seasoning           Seasoning
+2oz         Sour Cream               Topping
+
+
+Chicken Jalapeno Popper Flautas
+quantity    name                          type
+----------  ----------------------------  ----------
+12oz        Chicken Breasts               Meat
+2tsp        Garlic Pepper                 Seasoning
+3oz         Corn                          Vegetables
+6           Flour Tortillas               Tortillas
+1           Jalapeno Pepper               Peppers
+1           Lime                          Fruit
+2oz         Light Cream Cheese            Cheese
+1oz         Shredded Cheddar Jack Cheese  Cheese
+2oz         Sour Cream                    Condiments
+2           Green Onions                  Condiments
+```

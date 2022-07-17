@@ -1,0 +1,39 @@
+Adobo Chicken Enchilladas
+quantity    name                     type
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat
+2           Jalapeno Pepper          Pepper
+4oz         Shredded Cheddar Cheese  Cheese
+8           Small Flour Tortillas    Tortillas
+12 fl oz    Red Enchillada Sauce     Sauce
+2           Red Onion                Vegetables
+6oz         Corn                     Vegetables
+2 tsp       Taco Seasoning           Seasoning
+4oz         Sour Cream               Topping
+
+
+Ranch Chicken Quesadillas
+quantity    name                     type
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat
+2           Jalapeno                 Pepper
+1/2oz       Cilantro                 Condiments
+2           Lime                     Fruit
+2tsp        Ranch Seasoning          Seasoning
+8           Small Flour Tortillas    Tortillas
+4oz         Shredded Cheddar Cheese  Cheese
+4oz         Sour Cream               Condiments
+6oz         Corn                     Vegetables
+
+
+Pork Gyros
+quantity    name                   type
+----------  ---------------------  ----------
+20oz        Sliced Pork            Meat
+2oz         Feta Cheese            Cheese
+2           Pepperoncini           Peppers
+4           Roma Tomatoes          Vegetables
+8           Mini Naan FlatBreads   Bread
+2           Persian Cucumber       Vegetables
+4oz         Sour Cream             Condiments
+2tsp        Chimichurri Seasoning  Seasoning

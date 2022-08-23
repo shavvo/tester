@@ -1,0 +1,51 @@
+Mango Salsa Verde Shrimp Tacos
+quantity    name                   type      
+----------  ---------------------  ----------
+16oz        Shrimp                 Meat      
+2           jalapeno Pepper        Pepper    
+4oz         Creme Fraiche          Cream     
+8           Small Flour Tortillas  Tortillas 
+6           Tomatillos             Peppers   
+2tbsp       Mango Chutney          Seasoning 
+2tsp        Citrus Mojo Rub        Seasoning 
+2           Yellow Onion           Vegetables
+8oz         Slaw Mix               Vegetables
+
+Asian Style Turkey Lettuce Wraps
+quantity    name                type
+----------  ------------------  ----------
+24oz        Impossible Burger   Meat
+4           Green Onions        Vegetables
+1 head      Butter Lettuce      Vegetables
+4oz         Hosin Sauce         Sauce
+4oz         Water Chestnuts     Nuts
+4tsp        Sriracha            Sauce
+4tsp        Minced Ginger       Condiments
+8oz         Slaw Mix            Vegetables
+3oz         Pan Asian Dressing  Sauce
+
+Teriyaki Steak and Peppers
+quantity    name                        type
+----------  --------------------------  ----------
+20oz        Steak Strips                Meat
+4           Green Onion                 Vegetables
+1.5 Cup     Jasmine Rice                Rice
+2           Red Bell Pepper             Pepper
+4           Garlic Cloves               Seasoning
+4tsp        Minced Ginger               Condiments
+4oz         Teriyaki Glaze              Sauce
+2oz         Roasted Peanuts             Nuts
+2tbsp       Gochujang Red Pepper Paste  Condiments
+
+Adobo Chicken Enchilladas
+quantity    name                     type
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat
+2           Jalapeno Pepper          Pepper
+4oz         Shredded Cheddar Cheese  Cheese
+8           Small Flour Tortillas    Tortillas
+12 fl oz    Red Enchillada Sauce     Sauce
+2           Red Onion                Vegetables
+6oz         Corn                     Vegetables
+2 tsp       Taco Seasoning           Seasoning
+4oz         Sour Cream               Topping

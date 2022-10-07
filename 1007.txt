@@ -1,0 +1,46 @@
+Chipotle Refried Pinto Bean Flautas
+quantity    name                   type
+----------  ---------------------  ----------
+24oz        Impossible Burger      Meat
+4oz         Baby Spinach           Vegetables
+4           Garlic Cloves          Seasoning
+8           Small Flour Tortillas  Tortillas
+4oz         Shredded Cheese        Cheese
+30 oz       Pinto Beans            Beans
+2oz         Queso Fresco Crumbles  Cheese
+2tsp        Chipotle Seasoning     Seasoning
+2           Roma Tomato            Vegetable
+2           Jalapeno Pepper        Pepper
+4oz         Sour Cream             Condiment
+
+
+no
+Chicken Jalapeno Popper Flautas
+quantity    name                          type
+----------  ----------------------------  ----------
+24oz        Chicken Breasts               Meat
+4tsp        Garlic Pepper                 Seasoning
+6oz         Corn                          Vegetables
+8           Flour Tortillas               Tortillas
+2           Jalapeno Pepper               Peppers
+2           Lime                          Fruit
+4oz         Light Cream Cheese            Cheese
+2oz         Shredded Cheddar Jack Cheese  Cheese
+4oz         Sour Cream                    Condiments
+4           Green Onions                  Condiments
+
+
+no
+Crispy Citrus Orange Tofu
+quantity    name                    type
+----------  ----------------------  ---------
+24oz        Extra Firm Tofu         Meat
+2           Jalapeno                Pepper
+8oz         Frozen Pinapple         Fruit
+2           Lime                    Fruit
+1.5 cup     Jasmine Rice            Rice
+2/3         Tempura Mix             Sauce
+4 tsp       Miso Sauce Concentrate  Sauce
+8fl oz      Spicy Orange Sauce      Sauce
+1/2 cup     Panko Bread Crumbs      Bread
+1/2oz       Cilantro                Seasoning

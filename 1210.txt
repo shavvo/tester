@@ -1,0 +1,44 @@
+Mango Salsa Verde Shrimp Tacos
+quantity    name                   type
+----------  ---------------------  ----------
+16oz        Shrimp                 Meat
+2           jalapeno Pepper        Pepper
+4oz         Creme Fraiche          Cream
+8           Small Flour Tortillas  Tortillas
+6           Tomatillos             Peppers
+2tbsp       Mango Chutney          Seasoning
+2tsp        Citrus Mojo Rub        Seasoning
+2           Yellow Onion           Vegetables
+8oz         Slaw Mix               Vegetables
+
+
+no
+Thai Style Peanut Crusted Salmon
+quantity    name                             type
+----------  -------------------------------  ----------
+24oz        Salmon Fillets                   Meat
+3fl oz      Creamy Roasted Seasame Dressing  Sauce
+4 Tbsp      Panko BreadCrumbs                Bread
+4           Green Onions                     Vegetables
+4oz         Sweet Chilli Sauce               Sauce
+1oz         Roasted Peanuts                  Nuts
+1/2 cup     Jasmine Rice                     Rice
+1/2oz       Cilantro                         Seasoning
+4           Garlic Cloves                    Condiments
+8oz         Slaw Mix                         Vegetables
+
+
+no
+Crispy Citrus Orange Tofu
+quantity    name                    type
+----------  ----------------------  ---------
+24oz        Extra Firm Tofu         Meat
+2           Jalapeno                Pepper
+8oz         Frozen Pinapple         Fruit
+2           Lime                    Fruit
+1.5 cup     Jasmine Rice            Rice
+2/3         Tempura Mix             Sauce
+4 tsp       Miso Sauce Concentrate  Sauce
+8fl oz      Spicy Orange Sauce      Sauce
+1/2 cup     Panko Bread Crumbs      Bread
+1/2oz       Cilantro                Seasoning

@@ -1,0 +1,41 @@
+Chicken Chimichangas
+quantity    name                          type
+----------  ----------------------------  ----------
+24oz        Diced Chicken Breast          Meat
+10oz        Corn                          Vegetables
+6           Tomatillos                    Vegetables
+4           Garlic Cloves                 Seasoning
+4           Large Flour Tortillas         Tortillas
+6oz         Shredded Cheddar-Jack Cheese  Cheese
+2           Jalapeno                      Pepper
+1/2oz       Cilantro                      Seasoning
+2           Lime                          Fruit
+2tbsp       Taco Seasoning                Seasoning
+
+
+no
+Fig Jam and Blue Cheese Burger
+quantity    name                  type
+----------  --------------------  ----------
+24oz        Impossible Burger     Meat
+2oz         Light Cream Cheese    Cheese
+1oz         Baby Arugula          Vegetables
+4           Russet Potatoes       Vegetables
+2tsp        Garlic Pepper         Seasoning
+4           Brioche Buns          Buns
+1 oz        Blue Cheese Crumbles  Cheese
+4 Tbsp      Fig Spread            Topping
+
+
+no
+Garlic Sesame Steak Rice Bowl
+quantity    name                 type
+----------  -------------------  ----------
+16oz        Carrot               Vegetables
+1 fl oz     Mirin                Sauce
+20oz        Steak Strips         Meat
+12oz        White Rice           Rice
+6 fl oz     Garlic Sesame Sauce  Sauce
+8oz         Broccoli Florets     Vegetables
+1/2 tsp     Red Pepper Flakes    Seasoning
+1 oz        Roasted Peanuts      Nuts

@@ -1,0 +1,89 @@
+Hazelnut Butter Chicken Breast
+quantity    name                            type      
+----------  ------------------------------  ----------
+24oz        Chicken Breast                  Meat      
+24oz        Yukon Potatoes                  Vegetables
+2           Rosemary Sprig                  Seasoning 
+1fl oz      Honey                           Condiments
+2oz         Butter                          Condiment 
+1oz         Hazelnut Pieces                 Nuts      
+1 tsp       Seasoned Salt Blend             Seasoning 
+24oz        Carrots                         Vegetables
+1.5 oz      Roasted Garlic and Herb Butter  Condiments
+2oz         Light Cream Cheese              Cheese    
+
+
+no
+Crispy Citrus Orange Tofu
+quantity    name                    type
+24oz        Extra Firm Tofu         Meat
+2           Jalapeno                Pepper
+8oz         Frozen Pinapple         Fruit
+2           Lime                    Fruit
+1.5 cup     Jasmine Rice            Rice
+2/3         Tempura Mix             Sauce
+4 tsp       Miso Sauce Concentrate  Sauce
+8fl oz      Spicy Orange Sauce      Sauce
+1/2 cup     Panko Bread Crumbs      Bread
+1/2oz       Cilantro                Seasoning
+
+
+no
+Crispy Citrus Orange Tofu
+quantity    name                    type
+----------  ----------------------  ---------
+24oz        Extra Firm Tofu         Meat
+2           Jalapeno                Pepper
+8oz         Frozen Pinapple         Fruit
+2           Lime                    Fruit
+1.5 cup     Jasmine Rice            Rice
+2/3         Tempura Mix             Sauce
+4 tsp       Miso Sauce Concentrate  Sauce
+8fl oz      Spicy Orange Sauce      Sauce
+1/2 cup     Panko Bread Crumbs      Bread
+1/2oz       Cilantro                Seasoning
+
+
+no
+PS C:\Users\aball\Desktop\Food-Stuff> & C:/Users/aball/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/aball/Desktop/Food-Stuff/what2eat.py
+Asparagus and Tomato FlatBread
+quantity    name                      type
+----------  ------------------------  ----------
+24oz        Impossible Burger         Meat
+4           Naan Flatbreads           Bread
+4 tbsp      Roasted Red Pepper Pesto  Seasoning
+8 oz        Grape Tomatoes            Vegetables
+2oz         Shredded Parmesan Cheese  Cheese
+4oz         Sour Cream                Condiments
+1 oz        Baby Arugula              Vegetables
+2 oz        Walnut Halves             Nuts
+
+
+no
+Pork Gyros
+quantity    name                   type
+----------  ---------------------  ----------
+20oz        Sliced Pork            Meat
+2oz         Feta Cheese            Cheese
+2           Pepperoncini           Peppers
+4           Roma Tomatoes          Vegetables
+8           Mini Naan FlatBreads   Bread
+2           Persian Cucumber       Vegetables
+4oz         Sour Cream             Condiments
+2tsp        Chimichurri Seasoning  Seasoning
+
+
+no
+Baja Mango Shrimp Tacos
+quantity    name                   type
+----------  ---------------------  ----------
+16oz        Shrimp                 Meat
+2           Lime                   Fruit
+6oz         Frozen Mangoes         Fruit
+8           Small Flour Tortillas  Tortillas
+4oz         Sour Cream             Condiments
+2oz         Flour                  baking
+4           Green Onions           Vegetables
+2           Jalapeno Pepper        Pepper
+4oz         Guacamole              Condiments
+8oz         Slaw Mix               Vegetables

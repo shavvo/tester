@@ -1,0 +1,44 @@
+Thai Style Peanut Crusted Salmon
+quantity    name                             type
+----------  -------------------------------  ----------
+24oz        Salmon Fillets                   Meat
+3fl oz      Creamy Roasted Seasame Dressing  Sauce
+4 Tbsp      Panko BreadCrumbs                Bread
+4           Green Onions                     Vegetables
+4oz         Sweet Chilli Sauce               Sauce
+1oz         Roasted Peanuts                  Nuts
+1/2 cup     Jasmine Rice                     Rice
+1/2oz       Cilantro                         Seasoning
+4           Garlic Cloves                    Condiments
+8oz         Slaw Mix                         Vegetables
+
+
+no
+Chicken Chimichangas
+quantity    name                          type
+----------  ----------------------------  ----------
+24oz        Diced Chicken Breast          Meat
+10oz        Corn                          Vegetables
+6           Tomatillos                    Vegetables
+4           Garlic Cloves                 Seasoning
+4           Large Flour Tortillas         Tortillas
+6oz         Shredded Cheddar-Jack Cheese  Cheese
+2           Jalapeno                      Pepper
+1/2oz       Cilantro                      Seasoning
+2           Lime                          Fruit
+2tbsp       Taco Seasoning                Seasoning
+
+
+no
+Ranch Chicken Quesadillas
+quantity    name                     type
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat
+2           Jalapeno                 Pepper
+1/2oz       Cilantro                 Condiments
+2           Lime                     Fruit
+2tsp        Ranch Seasoning          Seasoning
+8           Small Flour Tortillas    Tortillas
+4oz         Shredded Cheddar Cheese  Cheese
+4oz         Sour Cream               Condiments
+6oz         Corn                     Vegetables

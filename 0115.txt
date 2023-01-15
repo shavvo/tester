@@ -1,0 +1,44 @@
+Crispy Citrus Orange Tofu
+quantity    name                    type
+----------  ----------------------  ---------
+24oz        Extra Firm Tofu         Meat
+2           Jalapeno                Pepper
+8oz         Frozen Pinapple         Fruit
+2           Lime                    Fruit
+1.5 cup     Jasmine Rice            Rice
+2/3         Tempura Mix             Sauce
+4 tsp       Miso Sauce Concentrate  Sauce
+8fl oz      Spicy Orange Sauce      Sauce
+1/2 cup     Panko Bread Crumbs      Bread
+1/2oz       Cilantro                Seasoning
+
+
+no
+Korean Style Pork Noodle Bowl
+quantity    name                        type
+----------  --------------------------  ----------
+20oz        Ground Pork                 Meat
+4           Green Onion                 Vegetables
+10oz        Lo Mein Noodles             Pasta
+1oz         Toasted Sesame Oil          Oil
+16oz        Green Beans                 Beans
+1/2oz       Cilantro                    Condiments
+2           Red Fresno Chile            Pepper
+4oz         Teriyaki Glaze              Sauce
+2tbsp       Gochujang Red Pepper Paste  Condiments
+
+
+no
+Chicken Jalapeno Popper Flautas
+quantity    name                          type
+----------  ----------------------------  ----------
+24oz        Chicken Breasts               Meat
+4tsp        Garlic Pepper                 Seasoning
+6oz         Corn                          Vegetables
+8           Flour Tortillas               Tortillas
+2           Jalapeno Pepper               Peppers
+2           Lime                          Fruit
+4oz         Light Cream Cheese            Cheese
+2oz         Shredded Cheddar Jack Cheese  Cheese
+4oz         Sour Cream                    Condiments
+4           Green Onions                  Condiments

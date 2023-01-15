@@ -1,7 +1,7 @@
 Crispy Citrus Orange Tofu
 quantity    name                    type
 ----------  ----------------------  ---------
-24oz        Extra Firm Tofu         Meat        - []
+- [] 24oz        Extra Firm Tofu         Meat
 2           Jalapeno                Pepper
 8oz         Frozen Pinapple         Fruit
 2           Lime                    Fruit

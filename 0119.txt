@@ -1,0 +1,43 @@
+Chicken Chimichangas
+quantity    name                          type      
+----------  ----------------------------  ----------
+24oz        Diced Chicken Breast          Meat      
+10oz        Corn                          Vegetables
+6           Tomatillos                    Vegetables
+4           Garlic Cloves                 Seasoning 
+4           Large Flour Tortillas         Tortillas 
+6oz         Shredded Cheddar-Jack Cheese  Cheese    
+2           Jalapeno                      Pepper    
+1/2oz       Cilantro                      Seasoning 
+2           Lime                          Fruit     
+2tbsp       Taco Seasoning                Seasoning 
+
+
+no
+Teriyaki Steak and Peppers
+quantity    name                        type        
+----------  --------------------------  ----------  
+20oz        Steak Strips                Meat        
+4           Green Onion                 Vegetables  
+1.5 Cup     Jasmine Rice                Rice        
+2           Red Bell Pepper             Pepper      
+4           Garlic Cloves               Seasoning   
+4tsp        Minced Ginger               Condiments  
+4oz         Teriyaki Glaze              Sauce       
+2oz         Roasted Peanuts             Nuts        
+2tbsp       Gochujang Red Pepper Paste  Condiments
+
+
+no
+Ranch Chicken Quesadillas
+quantity    name                     type
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat
+2           Jalapeno                 Pepper
+1/2oz       Cilantro                 Condiments
+2           Lime                     Fruit
+2tsp        Ranch Seasoning          Seasoning
+8           Small Flour Tortillas    Tortillas
+4oz         Shredded Cheddar Cheese  Cheese
+4oz         Sour Cream               Condiments
+6oz         Corn                     Vegetables

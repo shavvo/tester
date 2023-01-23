@@ -1,0 +1,60 @@
+Thai Style Peanut Crusted Salmon
+quantity    name                             type      
+----------  -------------------------------  ----------
+24oz        Salmon Fillets                   Meat      
+3fl oz      Creamy Roasted Seasame Dressing  Sauce     
+4 Tbsp      Panko BreadCrumbs                Bread     
+4           Green Onions                     Vegetables
+4oz         Sweet Chilli Sauce               Sauce     
+1oz         Roasted Peanuts                  Nuts      
+1/2 cup     Jasmine Rice                     Rice      
+1/2oz       Cilantro                         Seasoning 
+4           Garlic Cloves                    Condiments
+8oz         Slaw Mix                         Vegetables
+
+
+no
+Crispy Citrus Orange Tofu
+quantity    name                    type
+----------  ----------------------  ---------
+24oz        Extra Firm Tofu         Meat
+2           Jalapeno                Pepper
+8oz         Frozen Pinapple         Fruit
+2           Lime                    Fruit
+1.5 cup     Jasmine Rice            Rice
+2/3         Tempura Mix             Sauce
+4 tsp       Miso Sauce Concentrate  Sauce
+8fl oz      Spicy Orange Sauce      Sauce
+1/2 cup     Panko Bread Crumbs      Bread
+1/2oz       Cilantro                Seasoning
+
+
+no
+Shrimp Campanelle Primavera
+quantity    name                        type
+----------  --------------------------  ----------
+16oz        Shrimp                      Meat
+1 tsp       Garlic Salt                 Seasoning
+8oz         Grape Tomatoes              Vegetables
+4oz         Light Cream Cheese          Cheese
+2           Lemon                       Fruit
+12oz        Campanelle Pasta            Pasta
+4tsp        Mirepoix Broth Concentrate  Sauce
+2oz         Shredded Parmesan Cheese    Cheese
+2           Zucchini                    Vegetables
+1/2oz       Flour                       Baking
+
+
+no
+Korean Style Steak Tacos
+quantity    name                   type
+----------  ---------------------  ----------
+20oz        Steak Strips           Meat
+4tsp        Sriracha               sauce
+2           Cucumber               Vegetables
+2           Shallot                Vegetables
+2           Lime                   Fruit
+8oz         Slaw Mix               Vegetables
+2oz         Mayonnaise             Condiments
+4oz         Teriyaki Sauce         Sauce
+8           Small Flour Tortillas  Tortillas

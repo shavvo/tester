@@ -1,0 +1,56 @@
+Huli Huli Chicken Rice Bowl
+quantity    name               type
+----------  -----------------  ----------    
+24oz        Chicken Breast     Meat
+4           Green Onions       Vegetables    
+12oz        Rice               Rice
+2           Lime               Fruit
+8oz         Slaw Mix           Vegetables    
+2oz         Mayonnaise         Seasoning     
+8           Pinapple Slices    Fruit
+2 fl oz     Teriyaki Sauce     Sauce
+1/2 tsp     Red Pepper Flakes  Seasoning     
+
+
+no
+Pork Gyros
+quantity    name                   type      
+----------  ---------------------  ----------
+20oz        Sliced Pork            Meat      
+2oz         Feta Cheese            Cheese    
+2           Pepperoncini           Peppers   
+4           Roma Tomatoes          Vegetables
+8           Mini Naan FlatBreads   Bread     
+2           Persian Cucumber       Vegetables
+4oz         Sour Cream             Condiments
+2tsp        Chimichurri Seasoning  Seasoning 
+
+
+no
+Baja Mango Shrimp Tacos
+quantity    name                   type      
+----------  ---------------------  ----------
+16oz        Shrimp                 Meat
+2           Lime                   Fruit
+6oz         Frozen Mangoes         Fruit
+8           Small Flour Tortillas  Tortillas
+4oz         Sour Cream             Condiments
+2oz         Flour                  baking
+4           Green Onions           Vegetables
+2           Jalapeno Pepper        Pepper
+4oz         Guacamole              Condiments
+8oz         Slaw Mix               Vegetables
+
+
+no
+Hawaiian Style BBQ Pork Tacos
+quantity    name                          type
+----------  ----------------------------  ---------
+6           Pineapple Slices              Fruit
+4oz         Shredded Cheddar-Jack Cheese  Cheese
+8           Small Flour Tortillas         Tortillas
+2           Jalapeno Pepper               Peppers
+2oz         Roasted Salted Cashews        Nuts
+1/2oz       Cilantro                      Seasoning
+6oz         BBQ Sauce                     Sauce
+1oz         Crispy Fried Onions           Topping

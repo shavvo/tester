@@ -1,0 +1,57 @@
+Pepper Jack Burger with Jalapeno Jam
+quantity    name                        type      
+----------  --------------------------  ----------
+24oz        Impossible Burger           Meat      
+4           Hamburger Buns (pretzel)    Bread     
+2 oz        Jalapeno Jelly              Condiments
+2fl oz      Garlic Aioli                Condiments
+4           Pepperjack Cheese Slices    Cheese    
+1fl oz      Seasoned Rice Wine Vinegar  Vinegar   
+1tsp        Cilantro Lime Pepper Salt   Seasoning 
+2           Jalapeno (Diced)            Vegetables
+1oz         Baby Arugula                Vegetables
+4           Russet Potatoes             Vegetables
+
+
+no
+Korean Style Pork Noodle Bowl
+quantity    name                        type      
+----------  --------------------------  ----------
+20oz        Ground Pork                 Meat      
+4           Green Onion                 Vegetables
+10oz        Lo Mein Noodles             Pasta     
+1oz         Toasted Sesame Oil          Oil       
+16oz        Green Beans                 Beans     
+1/2oz       Cilantro                    Condiments
+2           Red Fresno Chile            Pepper    
+4oz         Teriyaki Glaze              Sauce     
+2tbsp       Gochujang Red Pepper Paste  Condiments
+
+
+no
+Teriyaki Steak and Peppers
+quantity    name                        type
+----------  --------------------------  ----------
+20oz        Steak Strips                Meat
+4           Green Onion                 Vegetables
+1.5 Cup     Jasmine Rice                Rice
+2           Red Bell Pepper             Pepper
+4           Garlic Cloves               Seasoning
+4tsp        Minced Ginger               Condiments
+4oz         Teriyaki Glaze              Sauce
+2oz         Roasted Peanuts             Nuts
+2tbsp       Gochujang Red Pepper Paste  Condiments
+
+
+no
+Hawaiian Style BBQ Pork Tacos
+quantity    name                          type
+----------  ----------------------------  ---------
+6           Pineapple Slices              Fruit
+4oz         Shredded Cheddar-Jack Cheese  Cheese
+8           Small Flour Tortillas         Tortillas
+2           Jalapeno Pepper               Peppers
+2oz         Roasted Salted Cashews        Nuts
+1/2oz       Cilantro                      Seasoning
+6oz         BBQ Sauce                     Sauce
+1oz         Crispy Fried Onions           Topping

@@ -1,0 +1,57 @@
+Huli Huli Chicken Rice Bowl
+quantity    name               type
+----------  -----------------  ----------
+24oz        Chicken Breast     Meat
+4           Green Onions       Vegetables
+12oz        Rice               Rice
+2           Lime               Fruit
+8oz         Slaw Mix           Vegetables
+2oz         Mayonnaise         Seasoning
+8           Pinapple Slices    Fruit
+2 fl oz     Teriyaki Sauce     Sauce
+1/2 tsp     Red Pepper Flakes  Seasoning
+
+
+no
+Shrimp Campanelle Primavera
+quantity    name                        type
+----------  --------------------------  ----------
+16oz        Shrimp                      Meat
+1 tsp       Garlic Salt                 Seasoning
+8oz         Grape Tomatoes              Vegetables
+4oz         Light Cream Cheese          Cheese
+2           Lemon                       Fruit
+12oz        Campanelle Pasta            Pasta
+4tsp        Mirepoix Broth Concentrate  Sauce
+2oz         Shredded Parmesan Cheese    Cheese
+2           Zucchini                    Vegetables
+1/2oz       Flour                       Baking
+
+
+no
+Ranch Chicken Quesadillas
+quantity    name                     type
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat
+2           Jalapeno                 Pepper
+1/2oz       Cilantro                 Condiments
+2           Lime                     Fruit
+2tsp        Ranch Seasoning          Seasoning
+8           Small Flour Tortillas    Tortillas
+4oz         Shredded Cheddar Cheese  Cheese
+4oz         Sour Cream               Condiments
+6oz         Corn                     Vegetables
+
+
+no
+Fig Jam and Blue Cheese Burger
+quantity    name                  type
+----------  --------------------  ----------
+24oz        Impossible Burger     Meat
+2oz         Light Cream Cheese    Cheese
+1oz         Baby Arugula          Vegetables
+4           Russet Potatoes       Vegetables
+2tsp        Garlic Pepper         Seasoning
+4           Brioche Buns          Buns
+1 oz        Blue Cheese Crumbles  Cheese
+4 Tbsp      Fig Spread            Topping

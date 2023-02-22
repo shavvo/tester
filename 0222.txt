@@ -1,0 +1,58 @@
+Thai Style Peanut Crusted Salmon
+quantity    name                             type      
+----------  -------------------------------  ----------
+24oz        Salmon Fillets                   Meat      
+3fl oz      Creamy Roasted Seasame Dressing  Sauce     
+4 Tbsp      Panko BreadCrumbs                Bread     
+4           Green Onions                     Vegetables
+4oz         Sweet Chilli Sauce               Sauce     
+1oz         Roasted Peanuts                  Nuts      
+1/2 cup     Jasmine Rice                     Rice      
+1/2oz       Cilantro                         Seasoning 
+4           Garlic Cloves                    Condiments
+8oz         Slaw Mix                         Vegetables
+
+
+no
+Pork Gyros
+quantity    name                   type
+----------  ---------------------  ----------
+20oz        Sliced Pork            Meat
+2oz         Feta Cheese            Cheese
+2           Pepperoncini           Peppers
+4           Roma Tomatoes          Vegetables
+8           Mini Naan FlatBreads   Bread
+2           Persian Cucumber       Vegetables
+4oz         Sour Cream             Condiments
+2tsp        Chimichurri Seasoning  Seasoning
+
+
+no
+Adobo Chicken Enchilladas
+quantity    name                     type
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat
+2           Jalapeno Pepper          Pepper
+4oz         Shredded Cheddar Cheese  Cheese
+8           Small Flour Tortillas    Tortillas
+12 fl oz    Red Enchillada Sauce     Sauce
+2           Red Onion                Vegetables
+6oz         Corn                     Vegetables
+2 tsp       Taco Seasoning           Seasoning
+4oz         Sour Cream               Topping
+
+
+no
+Shrimp Scampi
+quantity    name                 type
+----------  -------------------  ----------
+16oz        Shrimp               Meat
+4           Garlic Cloves        Seasoning
+1/2oz       Parsley              Seasoning
+2           Lemon                Fruit
+2           Ciabatta             Bread
+10oz        Linguine             Pasta
+4oz         Shredded Mozzarella  Cheese
+4oz         White Cooking Wine   Cooking
+8Fl oz      Cream Sause Base     Cream
+1/2oz       Red Pepper Flakes    Condiments

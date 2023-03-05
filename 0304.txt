@@ -1,0 +1,56 @@
+Korean Style Steak Tacos
+quantity    name                   type      
+----------  ---------------------  ----------
+20oz        Steak Strips           Meat      
+4tsp        Sriracha               sauce     
+2           Cucumber               Vegetables
+2           Shallot                Vegetables
+2           Lime                   Fruit     
+8oz         Slaw Mix               Vegetables
+2oz         Mayonnaise             Condiments
+4oz         Teriyaki Sauce         Sauce     
+8           Small Flour Tortillas  Tortillas 
+
+
+no
+Huli Huli Chicken Rice Bowl
+quantity    name               type
+----------  -----------------  ----------
+24oz        Chicken Breast     Meat
+4           Green Onions       Vegetables
+12oz        Rice               Rice
+2           Lime               Fruit
+8oz         Slaw Mix           Vegetables
+2oz         Mayonnaise         Seasoning
+8           Pinapple Slices    Fruit
+2 fl oz     Teriyaki Sauce     Sauce
+1/2 tsp     Red Pepper Flakes  Seasoning
+
+
+no
+Ranch Chicken Quesadillas
+quantity    name                     type
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat
+2           Jalapeno                 Pepper
+1/2oz       Cilantro                 Condiments
+2           Lime                     Fruit
+2tsp        Ranch Seasoning          Seasoning
+8           Small Flour Tortillas    Tortillas
+4oz         Shredded Cheddar Cheese  Cheese
+4oz         Sour Cream               Condiments
+6oz         Corn                     Vegetables
+
+
+no
+Fig Jam and Blue Cheese Burger
+quantity    name                  type
+----------  --------------------  ----------
+24oz        Impossible Burger     Meat
+2oz         Light Cream Cheese    Cheese
+1oz         Baby Arugula          Vegetables
+4           Russet Potatoes       Vegetables
+2tsp        Garlic Pepper         Seasoning
+4           Brioche Buns          Buns
+1 oz        Blue Cheese Crumbles  Cheese
+4 Tbsp      Fig Spread            Topping

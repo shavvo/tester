@@ -1,0 +1,59 @@
+Chicken Jalapeno Popper Flautas
+quantity    name                          type      
+----------  ----------------------------  ----------
+24oz        Chicken Breasts               Meat      
+4tsp        Garlic Pepper                 Seasoning 
+6oz         Corn                          Vegetables
+8           Flour Tortillas               Tortillas 
+2           Jalapeno Pepper               Peppers   
+2           Lime                          Fruit     
+4oz         Light Cream Cheese            Cheese    
+2oz         Shredded Cheddar Jack Cheese  Cheese    
+4oz         Sour Cream                    Condiments
+4           Green Onions                  Condiments
+
+
+no
+Korean Style Steak Tacos
+quantity    name                   type
+----------  ---------------------  ----------       
+20oz        Steak Strips           Meat
+4tsp        Sriracha               sauce
+2           Cucumber               Vegetables       
+2           Shallot                Vegetables       
+2           Lime                   Fruit
+8oz         Slaw Mix               Vegetables       
+2oz         Mayonnaise             Condiments       
+4oz         Teriyaki Sauce         Sauce
+8           Small Flour Tortillas  Tortillas        
+
+
+no
+Shrimp Scampi
+quantity    name                 type
+----------  -------------------  ----------
+16oz        Shrimp               Meat
+4           Garlic Cloves        Seasoning
+1/2oz       Parsley              Seasoning
+2           Lemon                Fruit
+2           Ciabatta             Bread
+10oz        Linguine             Pasta
+4oz         Shredded Mozzarella  Cheese
+4oz         White Cooking Wine   Cooking
+8Fl oz      Cream Sause Base     Cream
+1/2oz       Red Pepper Flakes    Condiments
+
+
+no
+Mango Salsa Verde Shrimp Tacos
+quantity    name                   type
+----------  ---------------------  ----------
+16oz        Shrimp                 Meat
+2           jalapeno Pepper        Pepper
+4oz         Creme Fraiche          Cream
+8           Small Flour Tortillas  Tortillas
+6           Tomatillos             Peppers
+2tbsp       Mango Chutney          Seasoning
+2tsp        Citrus Mojo Rub        Seasoning
+2           Yellow Onion           Vegetables
+8oz         Slaw Mix               Vegetables

@@ -1,0 +1,59 @@
+Ranch Chicken Quesadillas
+quantity    name                     type      
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat      
+2           Jalapeno                 Pepper    
+1/2oz       Cilantro                 Condiments
+2           Lime                     Fruit     
+2tsp        Ranch Seasoning          Seasoning 
+8           Small Flour Tortillas    Tortillas 
+4oz         Shredded Cheddar Cheese  Cheese    
+4oz         Sour Cream               Condiments
+6oz         Corn                     Vegetables
+
+
+no
+Chipotle Refried Pinto Bean Flautas
+quantity    name                   type        
+----------  ---------------------  ----------  
+24oz        Impossible Burger      Meat        
+4oz         Baby Spinach           Vegetables  
+4           Garlic Cloves          Seasoning   
+8           Small Flour Tortillas  Tortillas   
+4oz         Shredded Cheese        Cheese      
+30 oz       Pinto Beans            Beans       
+2oz         Queso Fresco Crumbles  Cheese      
+2tsp        Chipotle Seasoning     Seasoning   
+2           Roma Tomato            Vegetable   
+2           Jalapeno Pepper        Pepper      
+4oz         Sour Cream             Condiment   
+
+
+no
+Smokey Bacon Chicken Chilli
+quantity    name                       type
+----------  -------------------------  ----------
+20oz        Diced Chicken Breast       Meat
+2oz         Crumbled Bacon             Meat
+6oz         Corn                       Vegetables
+6oz         Corn Muffin mix            Baking
+6oz         Cannellini Beans           Beans
+4oz         Sour Cream                 Condiments
+1oz         Flour                      Baking
+4           Green Onion                Vegetables
+4tsp        Chicken Broth Concentrate  Condiments
+
+
+no
+Asian Style Turkey Lettuce Wraps
+quantity    name                type
+----------  ------------------  ----------
+24oz        Impossible Burger   Meat
+4           Green Onions        Vegetables
+1 head      Butter Lettuce      Vegetables
+4oz         Hosin Sauce         Sauce
+4oz         Water Chestnuts     Nuts
+4tsp        Sriracha            Sauce
+4tsp        Minced Ginger       Condiments
+8oz         Slaw Mix            Vegetables
+3oz         Pan Asian Dressing  Sauce

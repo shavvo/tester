@@ -1,0 +1,54 @@
+Pepper Jack Burger with Jalapeno Jam
+quantity    name                        type      
+----------  --------------------------  ----------
+24oz        Impossible Burger           Meat      
+4           Hamburger Buns (pretzel)    Bread     
+2 oz        Jalapeno Jelly              Condiments
+2fl oz      Garlic Aioli                Condiments
+4           Pepperjack Cheese Slices    Cheese    
+1fl oz      Seasoned Rice Wine Vinegar  Vinegar   
+1tsp        Cilantro Lime Pepper Salt   Seasoning 
+2           Jalapeno (Diced)            Vegetables
+1oz         Baby Arugula                Vegetables
+4           Russet Potatoes             Vegetables
+
+Thai Style Peanut Crusted Salmon
+quantity    name                             type 
+----------  -------------------------------  ----------
+24oz        Salmon Fillets                   Meat
+3fl oz      Creamy Roasted Seasame Dressing  Sauce
+4 Tbsp      Panko BreadCrumbs                Bread
+4           Green Onions                     Vegetables
+4oz         Sweet Chilli Sauce               Sauce
+1oz         Roasted Peanuts                  Nuts
+1/2 cup     Jasmine Rice                     Rice
+1/2oz       Cilantro                         Seasoning
+4           Garlic Cloves                    Condiments
+8oz         Slaw Mix                         Vegetables
+
+Chicken Jalapeno Popper Flautas
+quantity    name                          type
+----------  ----------------------------  ----------
+24oz        Chicken Breasts               Meat
+4tsp        Garlic Pepper                 Seasoning
+6oz         Corn                          Vegetables
+8           Flour Tortillas               Tortillas
+2           Jalapeno Pepper               Peppers
+2           Lime                          Fruit
+4oz         Light Cream Cheese            Cheese
+2oz         Shredded Cheddar Jack Cheese  Cheese
+4oz         Sour Cream                    Condiments
+4           Green Onions                  Condiments
+
+Huli Huli Chicken Rice Bowl
+quantity    name               type
+----------  -----------------  ----------
+24oz        Chicken Breast     Meat
+4           Green Onions       Vegetables
+12oz        Rice               Rice
+2           Lime               Fruit
+8oz         Slaw Mix           Vegetables
+2oz         Mayonnaise         Seasoning
+8           Pinapple Slices    Fruit
+2 fl oz     Teriyaki Sauce     Sauce
+1/2 tsp     Red Pepper Flakes  Seasoning

@@ -1,0 +1,86 @@
+Garlic Sesame Steak Rice Bowl
+quantity    name                 type
+----------  -------------------  ----------    
+16oz        Carrot               Vegetables    
+1 fl oz     Mirin                Sauce
+20oz        Steak Strips         Meat
+12oz        White Rice           Rice
+6 fl oz     Garlic Sesame Sauce  Sauce
+8oz         Broccoli Florets     Vegetables    
+1/2 tsp     Red Pepper Flakes    Seasoning     
+1 oz        Roasted Peanuts      Nuts
+
+Ranch Chicken Quesadillas
+quantity    name                     type      
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat      
+2           Jalapeno                 Pepper    
+1/2oz       Cilantro                 Condiments
+2           Lime                     Fruit     
+2tsp        Ranch Seasoning          Seasoning 
+8           Small Flour Tortillas    Tortillas 
+4oz         Shredded Cheddar Cheese  Cheese    
+4oz         Sour Cream               Condiments
+6oz         Corn                     Vegetables
+
+Pork Gyros
+quantity    name                   type
+----------  ---------------------  ----------
+20oz        Sliced Pork            Meat
+2oz         Feta Cheese            Cheese
+2           Pepperoncini           Peppers
+4           Roma Tomatoes          Vegetables
+8           Mini Naan FlatBreads   Bread
+2           Persian Cucumber       Vegetables
+4oz         Sour Cream             Condiments
+2tsp        Chimichurri Seasoning  Seasoning
+
+Chipotle Refried Pinto Bean Flautas
+quantity    name                   type
+----------  ---------------------  ----------
+24oz        Impossible Burger      Meat
+4oz         Baby Spinach           Vegetables
+4           Garlic Cloves          Seasoning
+8           Small Flour Tortillas  Tortillas
+4oz         Shredded Cheese        Cheese
+30 oz       Pinto Beans            Beans
+2oz         Queso Fresco Crumbles  Cheese
+2tsp        Chipotle Seasoning     Seasoning
+2           Roma Tomato            Vegetable
+2           Jalapeno Pepper        Pepper
+4oz         Sour Cream             Condiment
+
+Unique Ingredients:
+Shredded Cheddar Cheese - 4oz
+Roma Tomato - 2
+Pepperoncini - 2
+Red Pepper Flakes - 1/2 tsp
+Sliced Pork - 20oz
+Carrot - 16oz
+Mini Naan FlatBreads - 8
+Chimichurri Seasoning - 2tsp
+Queso Fresco Crumbles - 2oz
+Impossible Burger - 24oz
+Roma Tomatoes - 4
+Chipotle Seasoning - 2tsp
+Persian Cucumber - 2
+Pinto Beans - 30 oz
+Roasted Peanuts - 1 oz
+Corn - 6oz
+Lime - 2
+Broccoli Florets - 8oz
+Mirin - 1 fl oz
+Garlic Cloves - 4
+White Rice - 12oz
+Ranch Seasoning - 2tsp
+Jalapeno - 2
+Feta Cheese - 2oz
+Jalapeno Pepper - 2
+Sour Cream - 4oz
+Steak Strips - 20oz
+Garlic Sesame Sauce - 6 fl oz
+Shredded Cheese - 4oz
+Baby Spinach - 4oz
+Cilantro - 1/2oz
+Small Flour Tortillas - 8
+Chicken Breast - 24oz

@@ -1,0 +1,92 @@
+Chicken Jalapeno Popper Flautas
+quantity    name                          type
+----------  ----------------------------  ----------   
+24oz        Chicken Breasts               Meat
+4tsp        Garlic Pepper                 Seasoning    
+6oz         Corn                          Vegetables   
+8           Flour Tortillas               Tortillas    
+2           Jalapeno Pepper               Peppers      
+2           Lime                          Fruit        
+4oz         Light Cream Cheese            Cheese       
+2oz         Shredded Cheddar Jack Cheese  Cheese       
+4oz         Sour Cream                    Condiments   
+4           Green Onions                  Condiments   
+
+Thai Style Peanut Crusted Salmon
+quantity    name                             type      
+----------  -------------------------------  ----------
+24oz        Salmon Fillets                   Meat      
+3fl oz      Creamy Roasted Seasame Dressing  Sauce     
+4 Tbsp      Panko BreadCrumbs                Bread     
+4           Green Onions                     Vegetables
+4oz         Sweet Chilli Sauce               Sauce     
+1oz         Roasted Peanuts                  Nuts      
+1/2 cup     Jasmine Rice                     Rice      
+1/2oz       Cilantro                         Seasoning 
+4           Garlic Cloves                    Condiments
+8oz         Slaw Mix                         Vegetables
+
+Teriyaki Steak and Peppers
+quantity    name                        type
+----------  --------------------------  ----------
+20oz        Steak Strips                Meat
+4           Green Onion                 Vegetables
+1.5 Cup     Jasmine Rice                Rice
+2           Red Bell Pepper             Pepper
+4           Garlic Cloves               Seasoning
+4tsp        Minced Ginger               Condiments
+4oz         Teriyaki Glaze              Sauce
+2oz         Roasted Peanuts             Nuts
+2tbsp       Gochujang Red Pepper Paste  Condiments
+
+Shrimp Campanelle Primavera
+quantity    name                        type
+----------  --------------------------  ----------
+16oz        Shrimp                      Meat
+1 tsp       Garlic Salt                 Seasoning
+8oz         Grape Tomatoes              Vegetables
+4oz         Light Cream Cheese          Cheese
+2           Lemon                       Fruit
+12oz        Campanelle Pasta            Pasta
+4tsp        Mirepoix Broth Concentrate  Sauce
+2oz         Shredded Parmesan Cheese    Cheese
+2           Zucchini                    Vegetables
+1/2oz       Flour                       Baking
+
+Unique Ingredients:
+Jalapeno Pepper - 2
+Garlic Cloves - 4
+Garlic Salt - 1 tsp
+Grape Tomatoes - 8oz
+Minced Ginger - 4tsp
+Shredded Parmesan Cheese - 2oz
+Mirepoix Broth Concentrate - 4tsp
+Sweet Chilli Sauce - 4oz
+Salmon Fillets - 24oz
+Roasted Peanuts - 1oz
+Flour - 1/2oz
+Roasted Peanuts - 2oz
+Panko BreadCrumbs - 4 Tbsp
+Teriyaki Glaze - 4oz
+Green Onion - 4
+Red Bell Pepper - 2
+Cilantro - 1/2oz
+Campanelle Pasta - 12oz
+Garlic Pepper - 4tsp
+Chicken Breasts - 24oz
+Light Cream Cheese - 4oz
+Lime - 2
+Sour Cream - 4oz
+Jasmine Rice - 1/2 cup
+Steak Strips - 20oz
+Shredded Cheddar Jack Cheese - 2oz
+Shrimp - 16oz
+Creamy Roasted Seasame Dressing - 3fl oz
+Green Onions - 4
+Flour Tortillas - 8
+Zucchini - 2
+Lemon - 2
+Slaw Mix - 8oz
+Jasmine Rice - 1.5 Cup
+Gochujang Red Pepper Paste - 2tbsp
+Corn - 6oz

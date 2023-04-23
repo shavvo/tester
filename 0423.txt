@@ -1,0 +1,85 @@
+Baja Mango Shrimp Tacos
+quantity    name                   type      
+----------  ---------------------  ----------
+16oz        Shrimp                 Meat      
+2           Lime                   Fruit     
+6oz         Frozen Mangoes         Fruit     
+8           Small Flour Tortillas  Tortillas 
+4oz         Sour Cream             Condiments
+2oz         Flour                  baking    
+4           Green Onions           Vegetables
+2           Jalapeno Pepper        Pepper    
+4oz         Guacamole              Condiments
+8oz         Slaw Mix               Vegetables
+
+Prosciutto and Roasted Tomato Burger
+quantity    name                  type       
+----------  --------------------  ---------- 
+24oz        Impossible Burger     Meat       
+3 fl oz     Garlic Aioli          Sauce      
+6oz         Prosciutto            Meat       
+4           Russet Potatoes       Vegetables 
+1 tsp       Tomato Seasoning      Seasoning  
+1 tsp       Garlic Pepper         Seasoning  
+4           Brioche Buns          Bread      
+4           Roasted Red Tomatoes  Vegetables 
+
+Pork Gyros
+quantity    name                   type
+----------  ---------------------  ----------
+20oz        Sliced Pork            Meat
+2oz         Feta Cheese            Cheese
+2           Pepperoncini           Peppers
+4           Roma Tomatoes          Vegetables
+8           Mini Naan FlatBreads   Bread
+2           Persian Cucumber       Vegetables
+4oz         Sour Cream             Condiments
+2tsp        Chimichurri Seasoning  Seasoning
+
+Smokey Bacon Chicken Chilli
+quantity    name                       type
+----------  -------------------------  ----------
+20oz        Diced Chicken Breast       Meat
+2oz         Crumbled Bacon             Meat
+6oz         Corn                       Vegetables
+6oz         Corn Muffin mix            Baking
+6oz         Cannellini Beans           Beans
+4oz         Sour Cream                 Condiments
+1oz         Flour                      Baking
+4           Green Onion                Vegetables
+4tsp        Chicken Broth Concentrate  Condiments
+
+Unique Ingredients:
+Feta Cheese - 2oz
+Sliced Pork - 20oz
+Pepperoncini - 2
+Lime - 2
+Brioche Buns - 4
+Roma Tomatoes - 4
+Crumbled Bacon - 2oz
+Green Onions - 4
+Tomato Seasoning - 1 tsp
+Corn Muffin mix - 6oz
+Impossible Burger - 24oz
+Corn - 6oz
+Flour - 2oz
+Cannellini Beans - 6oz
+Green Onion - 4
+Small Flour Tortillas - 8
+Chimichurri Seasoning - 2tsp
+Garlic Aioli - 3 fl oz
+Prosciutto - 6oz
+Russet Potatoes - 4
+Frozen Mangoes - 6oz
+Garlic Pepper - 1 tsp
+Persian Cucumber - 2
+Diced Chicken Breast - 20oz
+Roasted Red Tomatoes - 4
+Mini Naan FlatBreads - 8
+Flour - 1oz
+Jalapeno Pepper - 2
+Shrimp - 16oz
+Guacamole - 4oz
+Chicken Broth Concentrate - 4tsp
+Slaw Mix - 8oz
+Sour Cream - 4oz

@@ -1,0 +1,127 @@
+Huli Huli Chicken Rice Bowl
+quantity    name               type
+----------  -----------------  ----------      
+24oz        Chicken Breast     Meat
+4           Green Onions       Vegetables      
+12oz        Rice               Rice
+2           Lime               Fruit
+8oz         Slaw Mix           Vegetables      
+2oz         Mayonnaise         Seasoning       
+8           Pinapple Slices    Fruit
+2 fl oz     Teriyaki Sauce     Sauce
+1/2 tsp     Red Pepper Flakes  Seasoning       
+
+Ranch Chicken Quesadillas
+quantity    name                     type      
+----------  -----------------------  ----------
+24oz        Chicken Breast           Meat      
+2           Jalapeno                 Pepper    
+1/2oz       Cilantro                 Condiments
+2           Lime                     Fruit     
+2tsp        Ranch Seasoning          Seasoning 
+8           Small Flour Tortillas    Tortillas 
+4oz         Shredded Cheddar Cheese  Cheese    
+4oz         Sour Cream               Condiments
+6oz         Corn                     Vegetables
+
+Teriyaki Steak and Peppers
+quantity    name                        type
+----------  --------------------------  ----------
+20oz        Steak Strips                Meat
+4           Green Onion                 Vegetables
+1.5 Cup     Jasmine Rice                Rice
+2           Red Bell Pepper             Pepper
+4           Garlic Cloves               Seasoning
+4tsp        Minced Ginger               Condiments
+4oz         Teriyaki Glaze              Sauce
+2oz         Roasted Peanuts             Nuts
+2tbsp       Gochujang Red Pepper Paste  Condiments
+
+Pepper Jack Burger with Jalapeno Jam
+quantity    name                        type
+----------  --------------------------  ----------
+24oz        Impossible Burger           Meat
+4           Hamburger Buns (pretzel)    Bread
+2 oz        Jalapeno Jelly              Condiments
+2fl oz      Garlic Aioli                Condiments
+4           Pepperjack Cheese Slices    Cheese
+1fl oz      Seasoned Rice Wine Vinegar  Vinegar
+1tsp        Cilantro Lime Pepper Salt   Seasoning
+2           Jalapeno (Diced)            Vegetables
+1oz         Baby Arugula                Vegetables
+4           Russet Potatoes             Vegetables
+
+Chicken Jalapeno Popper Flautas
+quantity    name                          type
+----------  ----------------------------  ----------
+24oz        Chicken Breasts               Meat
+4tsp        Garlic Pepper                 Seasoning
+6oz         Corn                          Vegetables
+8           Flour Tortillas               Tortillas
+2           Jalapeno Pepper               Peppers
+2           Lime                          Fruit
+4oz         Light Cream Cheese            Cheese
+2oz         Shredded Cheddar Jack Cheese  Cheese
+4oz         Sour Cream                    Condiments
+4           Green Onions                  Condiments
+
+Prosciutto and Roasted Tomato Burger
+quantity    name                  type
+----------  --------------------  ----------
+24oz        Impossible Burger     Meat
+3 fl oz     Garlic Aioli          Sauce
+6oz         Prosciutto            Meat
+4           Russet Potatoes       Vegetables
+1 tsp       Tomato Seasoning      Seasoning
+1 tsp       Garlic Pepper         Seasoning
+4           Brioche Buns          Bread
+4           Roasted Red Tomatoes  Vegetables
+
+Unique Ingredients:
+Steak Strips - 20oz
+Russet Potatoes - 4
+Green Onions - 4
+Small Flour Tortillas - 8
+Baby Arugula - 1oz
+Ranch Seasoning - 2tsp
+Light Cream Cheese - 4oz
+Green Onion - 4
+Jalapeno Pepper - 2
+Tomato Seasoning - 1 tsp
+Sour Cream - 4oz
+Pinapple Slices - 8
+Jasmine Rice - 1.5 Cup
+Jalapeno - 2
+Teriyaki Glaze - 4oz
+Rice - 12oz
+Garlic Aioli - 2fl oz
+Roasted Peanuts - 2oz
+Chicken Breasts - 24oz
+Minced Ginger - 4tsp
+Shredded Cheddar Cheese - 4oz
+Cilantro - 1/2oz
+Cilantro Lime Pepper Salt - 1tsp
+Brioche Buns - 4
+Red Bell Pepper - 2
+Pepperjack Cheese Slices - 4
+Garlic Aioli - 3 fl oz
+Flour Tortillas - 8
+Hamburger Buns (pretzel) - 4
+Gochujang Red Pepper Paste - 2tbsp
+Teriyaki Sauce - 2 fl oz
+Garlic Pepper - 4tsp
+Seasoned Rice Wine Vinegar - 1fl oz
+Roasted Red Tomatoes - 4
+Lime - 2
+Corn - 6oz
+Jalapeno Jelly - 2 oz
+Mayonnaise - 2oz
+Garlic Cloves - 4
+Impossible Burger - 24oz
+Prosciutto - 6oz
+Jalapeno (Diced) - 2
+Slaw Mix - 8oz
+Chicken Breast - 24oz
+Red Pepper Flakes - 1/2 tsp
+Garlic Pepper - 1 tsp
+Shredded Cheddar Jack Cheese - 2oz

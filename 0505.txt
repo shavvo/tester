@@ -1,0 +1,130 @@
+Shrimp Scampi
+quantity    name                  type
+----------  --------------------  ----------
+16 oz       Shrimp                Meat
+4           Garlic Cloves         Seasoning
+0.5 oz      Parsley               Seasoning
+2           Lemon                 Fruit
+2           Ciabatta              Bread
+10 oz       Linguine              Pasta
+4 oz        Shredded M ozzarella  Cheese
+4 oz        White Cooking Wine    Cooking
+8Fl oz      Cream Sause Base      Cream
+0.5 oz      Red Pepper Flakes     Condiments
+
+Korean Style Steak Tacos
+quantity    name                   type
+----------  ---------------------  ----------
+20 oz       Steak Strips           Meat
+4 tsp       Sriracha               sauce
+2           Cucumber               Vegetables
+2           Shallot                Vegetables
+2           Lime                   Fruit
+8 oz        Slaw Mix               Vegetables
+2 oz        Mayonnaise             Condiments
+4 oz        Teriyaki Sauce         Sauce
+8           Small Flour Tortillas  Tortillas
+
+Asparagus and Tomato FlatBread
+quantity    name                      type
+----------  ------------------------  ----------
+24 oz       Impossible Burger         Meat
+4           Naan Flatbreads           Bread
+4 tbsp      Roasted Red Pepper Pesto  Seasoning
+8 oz        Grape Tomatoes            Vegetables
+2 oz        Shredded Parmesan Cheese  Cheese
+4 oz        Sour Cream                Condiments
+1 oz        Baby Arugula              Vegetables
+2 oz        Walnut Halves             Nuts
+
+Huli Huli Chicken Rice Bowl
+quantity    name               type
+----------  -----------------  ----------
+24 oz       Chicken Breast     Meat
+4           Green Onions       Vegetables
+12 oz       Rice               Rice
+2           Lime               Fruit
+8 oz        Slaw Mix           Vegetables
+2 oz        Mayonnaise         Seasoning
+8           Pinapple Slices    Fruit
+2 fl oz     Teriyaki Sauce     Sauce
+0.5 tsp     Red Pepper Flakes  Seasoning
+
+Crispy Citrus Orange Tofu
+quantity    name                    type
+----------  ----------------------  ---------
+24 oz       Extra Firm Tofu         Meat
+2           Jalapeno                Pepper
+8 oz        Fr ozen Pinapple        Fruit
+2           Lime                    Fruit
+1.5 cup     Jasmine Rice            Rice
+0.6 oz      Tempura Mix             Sauce
+4 tsp       Miso Sauce Concentrate  Sauce
+8 fl oz     Spicy Orange Sauce      Sauce
+0.5 cup     Panko Bread Crumbs      Bread
+0.5 oz      Cilantro                Seasoning
+
+Korean Style Pork Noodle Bowl
+quantity    name                        type
+----------  --------------------------  ----------
+20 oz       Ground Pork                 Meat
+4           Green Onion                 Vegetables
+10 oz       Lo Mein Noodles             Pasta
+1 oz        Toasted Sesame Oil          Oil
+16 oz       Green Beans                 Beans
+0.5 oz      Cilantro                    Condiments
+2           Red Fresno Chile            Pepper
+4 oz        Teriyaki Glaze              Sauce
+2 tbsp      Gochujang Red Pepper Paste  Condiments
+
+Unique Ingredients:
+Lo Mein Noodles - 10 oz
+Roasted Red Pepper Pesto - 4 tbsp
+Jasmine Rice - 1.5 cup
+Shrimp - 16 oz
+Teriyaki Sauce - 2 fl oz
+Green Onions - 4
+Walnut Halves - 2 oz
+Linguine - 10 oz
+Fr ozen Pinapple - 8 oz
+Tempura Mix - 0.6 oz
+Pinapple Slices - 8
+Lime - 2
+Extra Firm Tofu - 24 oz
+Miso Sauce Concentrate - 4 tsp
+Cream Sause Base - 8Fl oz
+Red Pepper Flakes - 0.5 tsp
+Slaw Mix - 8 oz
+Teriyaki Glaze - 4 oz
+Grape Tomatoes - 8 oz
+Steak Strips - 20 oz
+Cucumber - 2
+Gochujang Red Pepper Paste - 2 tbsp
+Cilantro - 0.5 oz
+Garlic Cloves - 4
+Naan Flatbreads - 4
+Sriracha - 4 tsp
+Shredded Parmesan Cheese - 2 oz
+Jalapeno - 2
+White Cooking Wine - 4 oz
+Green Onion - 4
+Parsley - 0.5 oz
+Small Flour Tortillas - 8
+Panko Bread Crumbs - 0.5 cup
+Toasted Sesame Oil - 1 oz
+Sour Cream - 4 oz
+Red Fresno Chile - 2
+Lemon - 2
+Red Pepper Flakes - 0.5 oz
+Spicy Orange Sauce - 8 fl oz
+Rice - 12 oz
+Teriyaki Sauce - 4 oz
+Impossible Burger - 24 oz
+Baby Arugula - 1 oz
+Chicken Breast - 24 oz
+Green Beans - 16 oz
+Ground Pork - 20 oz
+Mayonnaise - 2 oz
+Shallot - 2
+Ciabatta - 2
+Shredded Mozzarella - 4 oz

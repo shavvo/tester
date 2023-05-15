@@ -1,0 +1,121 @@
+Hawaiian Style BBQ Pork Tacos
+quantity    name                          type
+----------  ----------------------------  ---------
+6           Pineapple Slices              Fruit
+4 oz        Shredded Cheddar-Jack Cheese  Cheese
+8           Small Flour Tortillas         Tortillas
+2           Jalapeno Pepper               Peppers
+2 oz        Roasted Salted Cashews        Nuts
+0.5 oz      Cilantro                      Seasoning
+6 oz        BBQ Sauce                     Sauce
+1 oz        Crispy Fried Onions           Topping
+
+Korean Style Steak Tacos
+quantity    name                   type
+----------  ---------------------  ----------
+20 oz       Steak Strips           Meat
+4 tsp       Sriracha               sauce
+2           Cucumber               Vegetables
+2           Shallot                Vegetables
+2           Lime                   Fruit
+8 oz        Slaw Mix               Vegetables
+2 oz        Mayonnaise             Condiments
+4 oz        Teriyaki Sauce         Sauce
+8           Small Flour Tortillas  Tortillas
+
+Prosciutto and Roasted Tomato Burger
+quantity    name                  type
+----------  --------------------  ----------
+24 oz       Impossible Burger     Meat
+3 fl oz     Garlic Aioli          Sauce
+6 oz        Prosciutto            Meat
+4           Russet Potatoes       Vegetables
+1 tsp       Tomato Seasoning      Seasoning
+1 tsp       Garlic Pepper         Seasoning
+4           Brioche Buns          Bread
+4           Roasted Red Tomatoes  Vegetables
+
+Garlic Sesame Steak Rice Bowl
+quantity    name                 type
+----------  -------------------  ----------
+16 oz       Carrot               Vegetables
+1 fl oz     Mirin                Sauce
+20 oz       Steak Strips         Meat
+12 oz       White Rice           Rice
+6 fl oz     Garlic Sesame Sauce  Sauce
+8 oz        Broccoli Florets     Vegetables
+0.5 tsp     Red Pepper Flakes    Seasoning
+1 oz        Roasted Peanuts      Nuts
+
+Ranch Chicken Quesadillas
+quantity    name                     type
+----------  -----------------------  ----------
+24 oz       Chicken Breast           Meat
+2           Jalapeno                 Pepper
+0.5 oz      Cilantro                 Condiments
+2           Lime                     Fruit
+2 tsp       Ranch Seasoning          Seasoning
+8           Small Flour Tortillas    Tortillas
+4 oz        Shredded Cheddar Cheese  Cheese
+4 oz        Sour Cream               Condiments
+6 oz        Corn                     Vegetables
+
+Chicken Chimichangas
+quantity    name                          type
+----------  ----------------------------  ----------
+24 oz       Diced Chicken Breast          Meat
+10 oz       Corn                          Vegetables
+6           Tomatillos                    Vegetables
+4           Garlic Cloves                 Seasoning
+4           Large Flour Tortillas         Tortillas
+6 oz        Shredded Cheddar-Jack Cheese  Cheese
+2           Jalapeno                      Pepper
+0.5 oz      Cilantro                      Seasoning
+2           Lime                          Fruit
+2 tbsp      Taco Seasoning                Seasoning
+
+Unique Ingredients:
+Tomatillos - 6
+Ranch Seasoning - 2 tsp
+Garlic Aioli - 3 fl oz
+Lime - 2
+Roasted Red Tomatoes - 4
+Garlic Pepper - 1 tsp
+Prosciutto - 6 oz
+White Rice - 12 oz
+Taco Seasoning - 2 tbsp
+Roasted Salted Cashews - 2 oz
+Broccoli Florets - 8 oz
+Teriyaki Sauce - 4 oz
+Shredded Cheddar Cheese - 4 oz
+Slaw Mix - 8 oz
+Brioche Buns - 4
+Sour Cream - 4 oz
+Sriracha - 4 tsp
+Pineapple Slices - 6
+Steak Strips - 20 oz
+Carrot - 16 oz
+Russet Potatoes - 4
+Garlic Sesame Sauce - 6 fl oz
+Large Flour Tortillas - 4
+Cucumber - 2
+Crispy Fried Onions - 1 oz
+Cilantro - 0.5 oz
+Shallot - 2
+Red Pepper Flakes - 0.5 tsp
+Tomato Seasoning - 1 tsp
+Mayonnaise - 2 oz
+Roasted Peanuts - 1 oz
+Corn - 6 oz
+BBQ Sauce - 6 oz
+Chicken Breast - 24 oz
+Small Flour Tortillas - 8
+Diced Chicken Breast - 24 oz
+Impossible Burger - 24 oz
+Jalapeno Pepper - 2
+Corn - 10 oz
+Garlic Cloves - 4
+Jalapeno - 2
+Shredded Cheddar-Jack Cheese - 4 oz
+Shredded Cheddar-Jack Cheese - 6 oz
+Mirin - 1 fl oz

@@ -1,0 +1,129 @@
+Pepper Jack Burger with Jalapeno Jam
+quantity    name                        type      
+----------  --------------------------  ----------
+24 oz       Impossible Burger           Meat      
+4           Hamburger Buns (pretzel)    Bread     
+2 oz        Jalapeno Jelly              Condiments
+2 fl oz     Garlic Aioli                Condiments
+4           Pepperjack Cheese Slices    Cheese    
+1 fl oz     Seasoned Rice Wine Vinegar  Vinegar   
+1 tsp       Cilantro Lime Pepper Salt   Seasoning 
+2           Jalapeno (Diced)            Vegetables
+1 oz        Baby Arugula                Vegetables
+4           Russet Potatoes             Vegetables
+
+Garlic Sesame Steak Rice Bowl
+quantity    name                 type
+----------  -------------------  ----------       
+16 oz       Carrot               Vegetables       
+1 fl oz     Mirin                Sauce
+20 oz       Steak Strips         Meat
+12 oz       White Rice           Rice
+6 fl oz     Garlic Sesame Sauce  Sauce
+8 oz        Broccoli Florets     Vegetables
+0.5 tsp     Red Pepper Flakes    Seasoning
+1 oz        Roasted Peanuts      Nuts
+
+Hawaiian Style BBQ Pork Tacos
+quantity    name                          type
+----------  ----------------------------  ---------
+6           Pineapple Slices              Fruit
+4 oz        Shredded Cheddar-Jack Cheese  Cheese
+8           Small Flour Tortillas         Tortillas
+2           Jalapeno Pepper               Peppers
+2 oz        Roasted Salted Cashews        Nuts
+0.5 oz      Cilantro                      Seasoning
+6 oz        BBQ Sauce                     Sauce
+1 oz        Crispy Fried Onions           Topping
+
+Teriyaki Steak and Peppers
+quantity    name                        type
+----------  --------------------------  ----------
+20 oz       Steak Strips                Meat
+4           Green Onion                 Vegetables
+1.5 Cup     Jasmine Rice                Rice
+2           Red Bell Pepper             Pepper
+4           Garlic Cloves               Seasoning
+4 tsp       Minced Ginger               Condiments
+4 oz        Teriyaki Glaze              Sauce
+2 oz        Roasted Peanuts             Nuts
+2 tbsp      Gochujang Red Pepper Paste  Condiments
+
+Shrimp Scampi
+quantity    name                  type
+----------  --------------------  ----------
+16 oz       Shrimp                Meat
+4           Garlic Cloves         Seasoning
+0.5 oz      Parsley               Seasoning
+2           Lemon                 Fruit
+2           Ciabatta              Bread
+10 oz       Linguine              Pasta
+4 oz        Shredded M ozzarella  Cheese
+4 oz        White Cooking Wine    Cooking
+8Fl oz      Cream Sause Base      Cream
+0.5 oz      Red Pepper Flakes     Condiments
+
+Korean Style Steak Tacos
+quantity    name                   type
+----------  ---------------------  ----------
+20 oz       Steak Strips           Meat
+4 tsp       Sriracha               sauce
+2           Cucumber               Vegetables
+2           Shallot                Vegetables
+2           Lime                   Fruit
+8 oz        Slaw Mix               Vegetables
+2 oz        Mayonnaise             Condiments
+4 oz        Teriyaki Sauce         Sauce
+8           Small Flour Tortillas  Tortillas
+
+Unique Ingredients:
+Steak Strips - 20 oz
+Broccoli Florets - 8 oz
+Baby Arugula - 1 oz
+Roasted Peanuts - 2 oz
+Gochujang Red Pepper Paste - 2 tbsp
+Lemon - 2
+Carrot - 16 oz
+Pepperjack Cheese Slices - 4
+Jalapeno (Diced) - 2
+Shredded Cheddar-Jack Cheese - 4 oz
+Crispy Fried Onions - 1 oz
+Garlic Cloves - 4
+Shallot - 2
+Red Pepper Flakes - 0.5 tsp
+Impossible Burger - 24 oz
+Red Bell Pepper - 2
+Cilantro Lime Pepper Salt - 1 tsp
+Cilantro - 0.5 oz
+Jasmine Rice - 1.5 Cup
+Jalapeno Jelly - 2 oz
+Sriracha - 4 tsp
+Teriyaki Sauce - 4 oz
+Red Pepper Flakes - 0.5 oz
+Russet Potatoes - 4
+Cucumber - 2
+Shredded M ozzarella - 4 oz
+Roasted Peanuts - 1 oz
+Mirin - 1 fl oz
+Teriyaki Glaze - 4 oz
+Minced Ginger - 4 tsp
+Garlic Aioli - 2 fl oz
+Pineapple Slices - 6
+Seasoned Rice Wine Vinegar - 1 fl oz
+Green Onion - 4
+BBQ Sauce - 6 oz
+Slaw Mix - 8 oz
+Lime - 2
+Jalapeno Pepper - 2
+White Rice - 12 oz
+Cream Sause Base - 8Fl oz
+Linguine - 10 oz
+White Cooking Wine - 4 oz
+Small Flour Tortillas - 8
+Shrimp - 16 oz
+Parsley - 0.5 oz
+Ciabatta - 2
+Garlic Sesame Sauce - 6 fl oz
+Roasted Salted Cashews - 2 oz
+Mayonnaise - 2 oz
+Hamburger Buns (pretzel) - 4

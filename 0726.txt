@@ -1,44 +1,46 @@
-Russet Potatoes - x1
-Mushroom Seasoning - x1
-Butter - x1
-Yellow Onion - x1
-French Rolls - x1
-Beef Flavor Demi-Glaze - x1
-Mozzarella Cheese Slices - x1
-Gardein Beef Strips - x1
-Extra Firm Tofu - x1
-Jalapeno Peppers - x2
-Pineapple Slices - x2
-Lime - x1
-White Rice - x3
+ Gardein Ground Beef - x3
+Feta Cheese - x1
+Pepperoncini - x1
+Roma Tomatoes - x2
+Naan FlatBreads - x1
+Persian Cucumber - x1
+Sour Cream - x3
+Chimichurri Seasoning - x1
+Carrot - x1
+Mirin Sauce - x1
+White Rice - x1
+Garlic Sesame Sauce - x1
+Broccoli - x1
+Red Pepper Flakes - x1
+Roasted Peanuts - x1
+Sweet Earth Mindful Chicken - x1
+Crumbled Bacon - x1
+Corn - x1
+Corn Bread Swirls - x1
+Cannellini Beans - x1
+Flour - x1
+Green Onion - x1
+Chicken Broth - x1
 Tempura Mix - x1
-Miso Sauce - x1
-Panko Breadcrumbs - x2
-Spicy Orange Sauce - x1
-Cilantro - x3
-Salmon Fillets - x1
-Creamy Roasted Sesame Dressing - x1
-Green Onion - x2
-Sweet Chilli Sauce - x1
-Roasted Peanuts - x2
+Shredded Cheddar Cheese - x2
+Canola Oil - x1
+Mayonnaise - x1
+Orzo Pasta - x1
+Broccholi - x1
+Cream Cheese - x1
 Garlic Cloves - x2
-Slaw Mix - x1
-Gardein Ground Beef - x2
-Red Bell Pepper - x1
-Minced Ginger - x1
-Teriyaki Glaze - x1
-Gochujang Red Pepper Paste - x1
-Shredded Cheddar Cheese - x1
+Lemon - x1
+Mahi-Mahi Fillets - x1
+Baby Spinach - x1
 Flour Tortillas - x1
-Salted Cashews - x1
-BBQ Sauce - x1
-Crispy Fried Onions - x1
+Pinto Beans - x1
+Queso Fresco Crumbles - x1
+Jalapeno Peppers - x1
+Chipotle Seasoning - x1
 
-
-====Recipes====
-
-2. Hawaiian Style BBQ Pork Tacos
-16. Thai Style Peanut Crusted Salmon
-18. Crispy Citrus Orange Tofu
-22. Teriyaki Steak and Peppers
-29. Beef and Mozzarella Dip Sandwich
+==== recipes ====
+1. Garlic Sesame Steak Rice Bowl
+10. Pork Gyros
+11. Smokey Bacon Chicken Chilli
+23. Chipotle Refried Pinto Bean Flautas
+26. Friend Mahi-Mahi and Lemon Garlic Aioli
